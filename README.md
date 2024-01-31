@@ -6,7 +6,6 @@
 [![GitHub issues][issues-image]][issues-url]
 [![GitHub forks][fork-image]][fork-url]
 [![GitHub Stars][stars-image]][stars-url]
-[![License][license-image]][license-url]
 
 NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/cookiecutter) along with [@clamytoe's](https://github.com/clamytoe) [toepack](https://github.com/clamytoe/toepack) project template.
 
@@ -30,5 +29,3 @@ If you encounter any problems, please [file an issue](https://github.com/clamyto
 [fork-url]:https://github.com/clamytoe/eif/network
 [stars-image]:https://img.shields.io/github/stars/clamytoe/eif.svg
 [stars-url]:https://github.com/clamytoe/eif/stargazers
-[license-image]:https://img.shields.io/github/license/clamytoe/eif.svg
-[license-url]:https://github.com/clamytoe/eif/blob/master/LICENSE
