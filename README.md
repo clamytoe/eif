@@ -9,6 +9,10 @@
 
 NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/cookiecutter) along with [@clamytoe's](https://github.com/clamytoe) [toepack](https://github.com/clamytoe/toepack) project template.
 
+## Trading Secrets
+
+* [Bollinger Bands](bollinger_bands.md)
+
 ## Lessons
 
 * [20240129](notes/20240129.md)
