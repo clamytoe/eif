@@ -15,16 +15,25 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 
 ## Lessons
 
+### Week 1
+
 * [20240129](notes/20240129.md)
 * [20240130](notes/20240130.md)
 * [20240131](notes/20240131.md)
 * [20240201](notes/20240201.md)
 * [20240202](notes/20240202.md)
+
+### Week 2
+
 * [20240205](notes/20240205.md)
 * [20240206](notes/20240206.md)
 * [20240207](notes/20240207.md)
 * [20240208](notes/20240208.md)
 * [20240209](notes/20240209.md)
+
+### Week 3
+
+* [20240212](notes/20240212.md)
 
 ## Issues
 
