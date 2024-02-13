@@ -114,3 +114,6 @@ ENV/
 
 # pdf files
 *.pdf
+
+# video folder
+videos/
