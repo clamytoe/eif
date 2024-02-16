@@ -62,3 +62,17 @@ Consider using $NVDA's daily chart to reflect on a question: why did I recommend
 One key point is the application of the change in the MACD Histogram's negative values and its relationship to buying points, as discussed today.
 
 Another point is that currently, there is no price break below the middle Bollinger Band and no divergence pattern at the top.
+
+## 3 - Divergence between MACD Histogram and Price
+
+![2024-02-15_17.07.30_36aa177c.jpg](notes/images/2024-02-15_17.07.30_36aa177c.jpg)
+
+* In an upward trend, when the price is making new highs while the area of the MACD Histogram is shrinking, this indicates a top divergence pattern, often signaling that the upward trend may soon end.
+* In a downward trend, when the price is making new lows while the area of the MACD Histogram is shrinking, this indicates a bottom divergence pattern, often signaling that the downward trend may soon end.
+
+In the daily chart of $MSTR:
+
+* The MACD Histogram in segment D2 is smaller than in D1, ultimately forming the buy point B.
+* The MACD Histogram in segment U2 is smaller than in U1, ultimately forming the sell point S.
+
+Currently, there is no top divergence pattern, so from the perspective of medium-term trading, it is advisable to continue holding the position.

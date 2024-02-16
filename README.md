@@ -12,6 +12,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 ## Trading Secrets
 
 * [Bollinger Bands](bollinger_bands.md)
+* [MACD Histogram and Trend Lines](macd.md)
 
 ## Lessons
 
@@ -36,6 +37,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 * [20240212](notes/20240212.md)
 * [20240213](notes/20240213.md)
 * [20240214](notes/20240214.md)
+* [20240215](notes/20240215.md)
 
 ## Issues
 
