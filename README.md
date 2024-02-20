@@ -40,6 +40,10 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 * [20240215](notes/20240215.md)
 * [20240216](notes/20240216.md)
 
+### Week 4
+
+* [20240219](notes/20240219.md)
+
 ## Issues
 
 If you encounter any problems, please [file an issue](https://github.com/clamytoe/toepack/issues) along with a detailed description.
