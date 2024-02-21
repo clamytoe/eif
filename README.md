@@ -43,6 +43,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 ### Week 4
 
 * [20240219](notes/20240219.md)
+* [20240220](notes/20240220.md)
 
 ## Issues
 
