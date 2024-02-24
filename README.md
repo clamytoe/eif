@@ -50,7 +50,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 </details>
 
 <details>
-  <summary><h3> Week 4</h3><summary>
+  <summary><h3> Week 4</h3></summary>
 
 * [20240219](notes/02/20240219.md)
 * [20240220](notes/02/20240220.md)
