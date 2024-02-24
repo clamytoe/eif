@@ -17,7 +17,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 ## Lessons
 
 <details>
-  <summary><h3>Week 1</h3></summary>
+  <summary>Week 1</summary>
 
 * [20240129](notes/01/20240129.md)
 * [20240130](notes/01/20240130.md)
@@ -28,7 +28,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 </details>
 
 <details>
-  <summary><h3>Week 2</3></summary>
+  <summary>Week 2</summary>
 
 * [20240205](notes/02/20240205.md)
 * [20240206](notes/02/20240206.md)
@@ -39,7 +39,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 </details>
 
 <details>
-  <summary><h3>Week 3</h3></summary>
+  <summary>Week 3</summary>
 
 * [20240212](notes/02/20240212.md)
 * [20240213](notes/02/20240213.md)
@@ -50,7 +50,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 </details>
 
 <details>
-  <summary><h3> Week 4</h3></summary>
+  <summary>Week 4</summary>
 
 * [20240219](notes/02/20240219.md)
 * [20240220](notes/02/20240220.md)
