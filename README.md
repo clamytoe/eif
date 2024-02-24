@@ -46,6 +46,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 * [20240220](notes/20240220.md)
 * [20240221](notes/20240221.md)
 * [20240222](notes/20240222.md)
+* [20240223](notes/20240223.md)
 
 ## Issues
 
