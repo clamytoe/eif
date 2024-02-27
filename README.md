@@ -64,6 +64,7 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
   <summary>Week 5</summary>
 
 * [20240225](notes/02/20240225.md)
+* [20240226](notes/02/20240226.md)
 
 </details>
 
