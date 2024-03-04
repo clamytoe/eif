@@ -73,6 +73,13 @@ NOTE: This project was generated with [Cookiecutter](https://github.com/audreyr/
 
 </details>
 
+<details>
+  <summary>Week 6</summary>
+
+* [20240303](notes/02/20240303.md)
+
+</details>
+
 ## Issues
 
 If you encounter any problems, please [file an issue](https://github.com/clamytoe/toepack/issues) along with a detailed description.
